@@ -8,13 +8,13 @@ from servicios.restaurante import Restaurante
 restaurante = Restaurante("Sabor Costeño")
 
 # Crear productos
-producto1 = Producto("Hamburguesa", 5.50, "Comida")
-producto2 = Producto("Jugo Natural", 2.00, "Bebida")
-producto3 = Producto("Pizza", 8.75, "Comida")
+producto1 = Producto("Hamburguesa", 4.25, "Comida")
+producto2 = Producto("Jugo Natural", 2.50, "Bebida")
+producto3 = Producto("Pizza", 7.00, "Comida")
 
 # Crear clientes
-cliente1 = Cliente("María López", "1234567890")
-cliente2 = Cliente("Carlos Pérez", "0987654321")
+cliente1 = Cliente("Ricky Jordan", "0939943358")
+cliente2 = Cliente("Tatiana Lara", "0939219454")
 
 # Registrar productos
 restaurante.agregar_producto(producto1)

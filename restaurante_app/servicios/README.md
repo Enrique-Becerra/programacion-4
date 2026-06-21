@@ -1,3 +1,5 @@
+ENRIQUE DAVID BECERRA MOSQUERA
+
 Descripción del sistema
 
 Este proyecto desarrolla un sistema básico de gestión de restaurante utilizando Programación Orientada a Objetos en Python. El sistema permite registrar productos y clientes, almacenarlos dentro de un restaurante y mostrar la información registrada en consola.
